@@ -108,5 +108,3 @@ git push origin your-branch-name
 After pushing your branch, go to GitHub and create a Pull Request to merge your changes into `main`.
 
 ---
-
-**If you face any issues or have questions, feel free to ask!*
