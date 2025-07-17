@@ -1,5 +1,4 @@
 # blogs
-
 Initialize repository<br>
 <br><br>
 cd ~/Documents/blogs<br>
